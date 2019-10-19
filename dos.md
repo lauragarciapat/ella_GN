@@ -1,0 +1,5 @@
+HISTORIA: Camino a casa subiendo por la acera color plateado que deja la lluvia a su paso, acélera el paso cada vez teniendo en lo profundo de si un aire lúgubre y de angustia ante la llegada tardía a su morada esperando que sus padres aún no notaran de su ausencia.
+PROBLEMA: Si ella sabe que hoy sus padres dieron un lujo de sali y llegaran mas tarde de lo normal, tiene más posibilidad de arribar a la vivienda sin que se hayan percatado de su falta, si la vivienda queda a 1 km de distancia al punto de ka fría ciudad donde se encuentra y necesita y necesita llegar en menos de 15 minutos parahacer los preparativos y no estar en problemas con sus padres, ¿Cuál sería un intervalo de velocidad adecuado para llegar a su casa en este tiempo?
+RESPUESTAS: correcta; A) x menor a 1,1 m/s
+            incorrecta; B) x mayor a 1,1 m/s
+EXPLICACIÓN: La respuesta correcta es la A) ya que como se está acercando cada vez más entonces la velocidad va en un sentido opuesto, es decir, la velocidad es negativa.
